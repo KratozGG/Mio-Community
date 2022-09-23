@@ -1,0 +1,8 @@
+{
+  "**How Cute**": "Replies you with a random rating of cuteness\n`Usage = mc!howcute`",
+  "**How Gay**": "Replies you with a random rating of Gayness\n`Usage = mc!howgay`",
+  "**How Noob**": "Replies you with a random rating of Noobness\n`Usage = mc!hownoob`",
+  "**How Pro**": "Replies you with a random rating of Professionalism\n`Usage = mc!howpro`",
+  "**Avatar**": "Replies you with your avatar in a better canvas\n`Usage = mc!av` `mc!avatar`",
+  "**Coin Flip**": "Does a coinflip\n`Usage = mc!coinflip head/tail`"
+}

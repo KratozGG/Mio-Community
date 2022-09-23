@@ -1,0 +1,10 @@
+{
+  "**Announcement**": "-> Send an announcement as an Embed directly to the announcement channel\nUsage = `mc!announce <title of the Embed>\n-> Locked to Admin+`",
+  "**Giveaway**": "=> Starts the process of registering a Giveaway\nUsage = `mc!gstart`\n-> `Locked to Admin+`",
+  "**Reroll Giveaway**": "-> Rerollshe winner of a Giveaway\nUsage = `mc!reroll <message id>`\n-> `Locked to Admin+`",
+  "**Accept Suggestion**": "-> Accepts a suggestion\nUsage = `mc!accept <message id>`\n-> `Locked to Admin+`",
+  "**Deny Suggestion**": "-> Denies a suggestion\nUsage = `mc!deny <message id>`\n-> L`ocked to Admin+`",
+  "**Bot Update**": "-> Sends an Embed with the latest updates of the bot in Bot Updates channel\nUsage = `mc!bupdate <embed title>`\n-> `Locked to Developer+`",
+  "**Purge**": "-> Deletes the respective amount of recent messages in the channel where it has been issued\nUsage = `mc!purge <length>`",
+  "**Polls**": "-> Creates a poll at the Poll channel\nUsage = `mc!polladd <object1> <object2> <number of reactions for the object to be declared as winner of the poll(not mandatory)>`\n-> `Locked to Admin+`"
+}

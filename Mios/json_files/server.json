@@ -1,0 +1,7 @@
+{
+  "**Server info**": "Shows The information about the server\nUsage = mc!serverinfo",
+  "**Ping**": "Shows the ping of the Bot\nUsage = mc!ping",
+  "**Report**": "Report a player with this command, aliases = r\nUsage = `mc!report @user <reason with evidence>`",
+  "**Suggestion**": "Suggest something new to be added to the server, aliases = s\n`Usage = mc!suggest <suggestion>`",
+  "**Nick request**": "Request a nickname change to the staff team\n`Usage = mc!nickreq <name>`"
+}

@@ -1,0 +1,6 @@
+{
+  "**Server Help**":"Shows list of server related commands\n`Usage = mc!serverhelp`",
+  "**Fun Help**": "Shows list of Fun commands\n`Usage = mc!funhelp`",
+  "**Pika Help**": "Shows list of PikaNetwork related commands\n`Usage = mc!pikahelp`",
+  "**Music Help**": "Shows list of music commands\n`Usage = mc!musichelp`"
+}
